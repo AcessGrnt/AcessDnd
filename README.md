@@ -3,7 +3,12 @@
   
 <p align="center">
   
-![BANNER_SARNAX_GITHUB](https://i.pinimg.com/originals/a3/33/25/a3332514e980446f5db4ab34e59eee18.gif)  
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 
 <p align="center">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-iowa%232594-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000%27"></a>  
