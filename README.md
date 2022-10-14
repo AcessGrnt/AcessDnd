@@ -54,7 +54,7 @@
 
 - 🎓 Estudando para ser um programador full-stack pleno em JavaScript
 
-- ⚡ LinkedIN (linkedin.com/in/acessdnd/)
+- ⚡ LinkedIN ( https://linkedin.com/in/acessdnd/ )
 
 - 💬 Discord [iowa#2594](https://discord.com/users/758043294612848660) | [DISCORD PARA PROGRAMADORES](https://discord.gg/programming)
 
