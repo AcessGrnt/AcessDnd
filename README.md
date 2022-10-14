@@ -56,7 +56,7 @@
 
 - ⚡ LinkedIN (linkedin.com/in/acessdnd/)
 
-- 💬 Discord [iowa#2594](https://discord.com/users/758043294612848660) | [Discord para programadores](https://discord.gg/programming)
+- 💬 Discord [iowa#2594](https://discord.com/users/758043294612848660) | [DISCORD PARA PROGRAMADORES](https://discord.gg/programming)
 
 </pre><br>
 
